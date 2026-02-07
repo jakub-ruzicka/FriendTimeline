@@ -1,52 +1,337 @@
 [
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2018-04-12",
-    "popis": "První společná fotka — ještě trochu nesmělý začátek."
+    "nazev_fotky": "18.7.2017-lonyn jidlo.JPG",
+    "datum_fotky": "2017-07-18",
+    "popis": "Londýn — jídlo."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2018-08-05",
-    "popis": "Letní výlet. Bylo vedro, ale nálada top."
+    "nazev_fotky": "9.9.2017_Londýn všichni.jpg",
+    "datum_fotky": "2017-09-09",
+    "popis": "Londýn — všichni."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2019-01-19",
-    "popis": "Zimní procházka a čaj, který se nedal pít (ale stejně jsme ho dopili)."
+    "nazev_fotky": "24.9.2017-londyn dite.jpg",
+    "datum_fotky": "2017-09-24",
+    "popis": "Londýn — dítě."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2019-07-02",
-    "popis": "Festival / koncert — hlasivky odešly, vzpomínka zůstala."
+    "nazev_fotky": "25.9.2017-londyn pride.jpg",
+    "datum_fotky": "2017-09-25",
+    "popis": "Londýn — Pride."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2020-05-14",
-    "popis": "Domácí pohoda. Někdy je nejlepší program ten bez programu."
+    "nazev_fotky": "26.9.2017_londyn svatek.jpg",
+    "datum_fotky": "2017-09-26",
+    "popis": "Londýn — svátek."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2021-09-11",
-    "popis": "Hory. Kroky bolely, výhledy léčili."
+    "nazev_fotky": "6.4.2019-příprava afrika.JPG",
+    "datum_fotky": "2019-04-06",
+    "popis": "Příprava — Afrika."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2022-02-26",
-    "popis": "Nečekaná akce v sobotu. Nečekané akce jsou často nejlepší."
+    "nazev_fotky": "24.5.2019_bakalar.JPG",
+    "datum_fotky": "2019-05-24",
+    "popis": "Bakalář."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2023-06-30",
-    "popis": "Společná oslava — smích byl slyšet až ven."
+    "nazev_fotky": "25.5.2019_oslava po bakalari.JPG",
+    "datum_fotky": "2019-05-25",
+    "popis": "Oslava po bakaláři."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2024-03-09",
-    "popis": "Dlouhá procházka městem. A pak ještě delší debata."
+    "nazev_fotky": "6.7.2019_rwanda kámoši.jpeg",
+    "datum_fotky": "2019-07-06",
+    "popis": "Rwanda — kámoši."
   },
   {
-    "nazev_fotky": "uvodni_fotka.png",
-    "datum_fotky": "2025-01-18",
-    "popis": "Nejnovější vzpomínka. Pokračování příště."
+    "nazev_fotky": "7.7.2019_rwanda pruvodce.jpeg",
+    "datum_fotky": "2019-07-07",
+    "popis": "Rwanda — průvodce."
+  },
+  {
+    "nazev_fotky": "10.7.2019_Rwanda Paci.jpeg",
+    "datum_fotky": "2019-07-10",
+    "popis": "Rwanda — Paci."
+  },
+  {
+    "nazev_fotky": "12.7.2019_Etiopie kava.jpeg",
+    "datum_fotky": "2019-07-12",
+    "popis": "Etiopie — káva."
+  },
+  {
+    "nazev_fotky": "29.7.2019_zanzibar.JPG",
+    "datum_fotky": "2019-07-29",
+    "popis": "Zanzibar."
+  },
+  {
+    "nazev_fotky": "1.8.2019_hrozný ubytko_Afrika.JPG",
+    "datum_fotky": "2019-08-01",
+    "popis": "Afrika — hrozný ubytko."
+  },
+  {
+    "nazev_fotky": "2.8.2019_tanzanie_liján.JPG",
+    "datum_fotky": "2019-08-02",
+    "popis": "Tanzanie — liján."
+  },
+  {
+    "nazev_fotky": "2.8.2019_zanzibar.JPG",
+    "datum_fotky": "2019-08-02",
+    "popis": "Zanzibar."
+  },
+  {
+    "nazev_fotky": "3.8.2019_Pemba záchrana.JPG",
+    "datum_fotky": "2019-08-03",
+    "popis": "Pemba — záchrana."
+  },
+  {
+    "nazev_fotky": "3.8.2019_tanzanie_nefotit.png",
+    "datum_fotky": "2019-08-03",
+    "popis": "Tanzanie — nefotit."
+  },
+  {
+    "nazev_fotky": "4.8.2019_tanzánie_hry.png",
+    "datum_fotky": "2019-08-04",
+    "popis": "Tanzánie — hry."
+  },
+  {
+    "nazev_fotky": "5.8.2019_Tanzanie listky.png",
+    "datum_fotky": "2019-08-05",
+    "popis": "Tanzanie — lístky."
+  },
+  {
+    "nazev_fotky": "5.8.2019_zanzibar.JPG",
+    "datum_fotky": "2019-08-05",
+    "popis": "Zanzibar."
+  },
+  {
+    "nazev_fotky": "10.8.2019_Kenya.JPG",
+    "datum_fotky": "2019-08-10",
+    "popis": "Keňa."
+  },
+  {
+    "nazev_fotky": "15.8.2019_tanzanie_park.JPG",
+    "datum_fotky": "2019-08-15",
+    "popis": "Tanzanie — park."
+  },
+  {
+    "nazev_fotky": "20.8.2019-etiopie vedro.JPG",
+    "datum_fotky": "2019-08-20",
+    "popis": "Etiopie — vedro."
+  },
+  {
+    "nazev_fotky": "20.8.2019_etiopie znacka.png",
+    "datum_fotky": "2019-08-20",
+    "popis": "Etiopie — značka."
+  },
+  {
+    "nazev_fotky": "21.8.2019_tanzanie_avokado.JPG",
+    "datum_fotky": "2019-08-21",
+    "popis": "Tanzanie — avokádo."
+  },
+  {
+    "nazev_fotky": "22.8.2019_etiopie slavnost.JPG",
+    "datum_fotky": "2019-08-22",
+    "popis": "Etiopie — slavnost."
+  },
+  {
+    "nazev_fotky": "25.8.2019_tanzanie kongo.JPG",
+    "datum_fotky": "2019-08-25",
+    "popis": "Tanzanie — Kongo."
+  },
+  {
+    "nazev_fotky": "2.9.2019_etiopie_noha.JPG",
+    "datum_fotky": "2019-09-02",
+    "popis": "Etiopie — noha."
+  },
+  {
+    "nazev_fotky": "5.9.2019_uganda-brzda auto.JPG",
+    "datum_fotky": "2019-09-05",
+    "popis": "Uganda — brzda auto."
+  },
+  {
+    "nazev_fotky": "11.9.2019_Uganda naramky.jpeg",
+    "datum_fotky": "2019-09-11",
+    "popis": "Uganda — náramky."
+  },
+  {
+    "nazev_fotky": "12.9.2019_Uganda výroba jídla.jpeg",
+    "datum_fotky": "2019-09-12",
+    "popis": "Uganda — výroba jídla."
+  },
+  {
+    "nazev_fotky": "13.9.2019_Uganda-korba.jpeg",
+    "datum_fotky": "2019-09-13",
+    "popis": "Uganda — korba."
+  },
+  {
+    "nazev_fotky": "14.9.2019_Uganda_musa rodina.jpeg",
+    "datum_fotky": "2019-09-14",
+    "popis": "Uganda — Musa, rodina."
+  },
+  {
+    "nazev_fotky": "14.9.2019_uganda johi banany.png",
+    "datum_fotky": "2019-09-14",
+    "popis": "Uganda — Johi, banány."
+  },
+  {
+    "nazev_fotky": "14.9.2019_uganda martin kasava.png",
+    "datum_fotky": "2019-09-14",
+    "popis": "Uganda — Martin, kasava."
+  },
+  {
+    "nazev_fotky": "15.9.2019_uganda pohreb.jpeg",
+    "datum_fotky": "2019-09-15",
+    "popis": "Uganda — pohřeb."
+  },
+  {
+    "nazev_fotky": "19.9.2019_tanzanie park motorka.jpg",
+    "datum_fotky": "2019-09-19",
+    "popis": "Tanzanie — park, motorka."
+  },
+  {
+    "nazev_fotky": "19.9.2019_tanzanie trh.jpg",
+    "datum_fotky": "2019-09-19",
+    "popis": "Tanzanie — trh."
+  },
+  {
+    "nazev_fotky": "19.9.2019_tanzanie-laska-tta.jpg",
+    "datum_fotky": "2019-09-19",
+    "popis": "Tanzanie — láska (TTA)."
+  },
+  {
+    "nazev_fotky": "19.9.2019_tanzanie_koza dojeni.jpg",
+    "datum_fotky": "2019-09-19",
+    "popis": "Tanzanie — koza, dojení."
+  },
+  {
+    "nazev_fotky": "22.7.2020_Rakousko hory.JPG",
+    "datum_fotky": "2020-07-22",
+    "popis": "Rakousko — hory."
+  },
+  {
+    "nazev_fotky": "3.1.2021_barcelona letiště.jpg",
+    "datum_fotky": "2021-01-03",
+    "popis": "Barcelona — letiště."
+  },
+  {
+    "nazev_fotky": "3.1.2021_2_barcelona káva.jpg",
+    "datum_fotky": "2021-01-03",
+    "popis": "Barcelona — káva (2)."
+  },
+  {
+    "nazev_fotky": "16.4.2021_bezky.JPG",
+    "datum_fotky": "2021-04-16",
+    "popis": "Běžky."
+  },
+  {
+    "nazev_fotky": "16.4.2021_hory_chata.jpg",
+    "datum_fotky": "2021-04-16",
+    "popis": "Hory — chata."
+  },
+  {
+    "nazev_fotky": "17.4.2021_bezky_2.JPG",
+    "datum_fotky": "2021-04-17",
+    "popis": "Běžky (2)."
+  },
+  {
+    "nazev_fotky": "5.6.2021_Rakousko.JPG",
+    "datum_fotky": "2021-06-05",
+    "popis": "Rakousko."
+  },
+  {
+    "nazev_fotky": "6.6.2021_Slovinsko všichni.JPG",
+    "datum_fotky": "2021-06-06",
+    "popis": "Slovinsko — všichni."
+  },
+  {
+    "nazev_fotky": "18.6.2021_Slovinsko vodopad.jpg",
+    "datum_fotky": "2021-06-18",
+    "popis": "Slovinsko — vodopád."
+  },
+  {
+    "nazev_fotky": "18.6.2021_slovinsko raft.jpg",
+    "datum_fotky": "2021-06-18",
+    "popis": "Slovinsko — raft."
+  },
+  {
+    "nazev_fotky": "20.6.2021_Slovinsko blinkání.jpeg",
+    "datum_fotky": "2021-06-20",
+    "popis": "Slovinsko — blinkání."
+  },
+  {
+    "nazev_fotky": "1.7.2021_Uganda_musa house.jpeg",
+    "datum_fotky": "2021-07-01",
+    "popis": "Uganda — Musa house."
+  },
+  {
+    "nazev_fotky": "9.7.2021_Panama_křen.JPG",
+    "datum_fotky": "2021-07-09",
+    "popis": "Panama — křen."
+  },
+  {
+    "nazev_fotky": "10.7.2021-Panama_les.JPG",
+    "datum_fotky": "2021-07-10",
+    "popis": "Panama — les."
+  },
+  {
+    "nazev_fotky": "12.7.2021_Panama ostrov.JPG",
+    "datum_fotky": "2021-07-12",
+    "popis": "Panama — ostrov."
+  },
+  {
+    "nazev_fotky": "22.7.2021-rakousko motorka.jpg",
+    "datum_fotky": "2021-07-22",
+    "popis": "Rakousko — motorka."
+  },
+  {
+    "nazev_fotky": "13.8.2021-Bologna more.JPEG",
+    "datum_fotky": "2021-08-13",
+    "popis": "Bologna — moře."
+  },
+  {
+    "nazev_fotky": "13.8.2021-Panama papouch.jpg",
+    "datum_fotky": "2021-08-13",
+    "popis": "Panama — papouch."
+  },
+  {
+    "nazev_fotky": "13.8.2021_Panama parta.JPG",
+    "datum_fotky": "2021-08-13",
+    "popis": "Panama — parta."
+  },
+  {
+    "nazev_fotky": "11.7.2022_rumunsko.jpeg",
+    "datum_fotky": "2022-07-11",
+    "popis": "Rumunsko."
+  },
+  {
+    "nazev_fotky": "2015_PEFKA.png",
+    "datum_fotky": "1992-01-01",
+    "popis": "PEFKA (rok 2015 v názvu, bez přesného dne)."
+  },
+  {
+    "nazev_fotky": "2019_konec afriky.png",
+    "datum_fotky": "1992-01-01",
+    "popis": "Konec Afriky (rok 2019 v názvu, bez přesného dne)."
+  },
+  {
+    "nazev_fotky": "2020_frisbe.jpeg",
+    "datum_fotky": "1992-01-01",
+    "popis": "Frisbe (rok 2020 v názvu, bez přesného dne)."
+  },
+  {
+    "nazev_fotky": "rohlik_2020.jpg",
+    "datum_fotky": "1992-01-01",
+    "popis": "Rohlík (rok 2020 v názvu, bez přesného dne)."
+  },
+  {
+    "nazev_fotky": "2021_Diplomka.jpeg",
+    "datum_fotky": "1992-01-01",
+    "popis": "Diplomka (rok 2021 v názvu, bez přesného dne)."
+  },
+  {
+    "nazev_fotky": "voda-2023.jpeg",
+    "datum_fotky": "1992-01-01",
+    "popis": "Voda (rok 2023 v názvu, bez přesného dne)."
   }
 ]
