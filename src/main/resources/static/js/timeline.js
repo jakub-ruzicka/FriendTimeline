@@ -114,6 +114,10 @@
         const label = document.createElement("div");
         label.className = "label";
 
+        // Přidání specifických tříd pro první a poslední prvek
+        if (index === 0) label.classList.add("label--first");
+        if (index === entries.length - 1) label.classList.add("label--last");
+
         const shiftX = -48; // <-- posun všech tlačítek/labelů doleva (uprav dle chuti)
         label.style.left = `${xPx + shiftX}px`;
         label.style.top = `${yPx}px`;

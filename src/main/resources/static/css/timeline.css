@@ -275,10 +275,25 @@ body {
 .snake__dots {
     display: none;
 }
-.labels {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
+
+/* Specifické třídy pro posun prvních/posledních labelů */
+.label--first {
+    margin-top: -30px; /* Posun nahoru o 30px pro oddělení od druhého prvku */
+}
+
+.label--last {
+    margin-top: 30px; /* Posun dolů o 30px pro oddělení od předposledního prvku */
+}
+
+/* Automatický posun pro první dva a poslední dva labely přes CSS selektory */
+.labels .label:nth-child(1) {
+    margin-top: -70px; /* Silnější posun nahoru pro úplně první label */
+    margin-left: -30px;
+}
+
+
+.labels .label:nth-last-child(1) {
+    margin-top: 70px; /* Silnější posun dolů pro úplně poslední label */
 }
 
 /* Mobile */
